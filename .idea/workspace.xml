@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4606145e-1670-4e94-ae84-0a962aafcffd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/src/Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Email.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EmailApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EmailApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
